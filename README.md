@@ -1,0 +1,2 @@
+# StreamRider
+Live streaming application
