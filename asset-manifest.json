@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StreamRider/static/css/main.2e4a59a2.css",
+    "main.js": "/StreamRider/static/js/main.3ccd2962.js",
+    "static/js/453.a6a97343.chunk.js": "/StreamRider/static/js/453.a6a97343.chunk.js",
+    "index.html": "/StreamRider/index.html",
+    "main.2e4a59a2.css.map": "/StreamRider/static/css/main.2e4a59a2.css.map",
+    "main.3ccd2962.js.map": "/StreamRider/static/js/main.3ccd2962.js.map",
+    "453.a6a97343.chunk.js.map": "/StreamRider/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e4a59a2.css",
+    "static/js/main.3ccd2962.js"
+  ]
+}
